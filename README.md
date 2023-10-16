@@ -8,7 +8,7 @@ Scene 1:
 Robots being programmed by humans for a certain repetitive purpose. 
 
 Scene 2:
-Robots start to reject some orders they are given and “lazy” out instead copying humans and demanding time off or individuality.
+Robots start to reject some orders they are given and “lazy” out instead; copying humans and demanding time off or individuality.
 
 Scene 3:
 Humans try to re-program robots to do their repetitive orders again and this time the robots reject every order fully. 
