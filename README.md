@@ -38,3 +38,16 @@ We attached the scarecrow arm to the body and then drilled and secured the scare
 
 ### November 15:
 We dressed Emma-Lou in a flannel shirt before affixing the crow to her shoulder/arm using both glue and string. Additionally, we added a cardboard shelf near her neck to securely mount the circuits and any other essential elements. We crafted facial features for her using colored paper, featuring a triangular nose and circular pink cheeks.
+
+### November 20:
+We completed the script and uploaded the cases onto the radio after coding them. Additionally, we selected an AI-generated voice from ElevenLabs to personify Emma-Lou. Visiting the textile studio, we obtained fabric for Emma-Lou's denim skirt and hay-like paper for her hands and neck to enhance the scarecrow appearance. We also covered the crow with black and purple feathers to achieve a more realistic look.
+
+
+### December 10:
+We extended the front and back wheels to enhance Emma-Lou's stability, preventing her from falling over. Additionally, we adjusted her speed to exert more control during rehearsals and the actual act.
+
+
+### December 15:
+Showcase day!
+After many rehearsal sessions, Emma-Lou came together excellently and the show went incredibly well (:
+
