@@ -10,29 +10,28 @@ Challenges:
 Ensuring the wheels on the side were securely connected and that the front and back wheels functioned effectively as stabilizers and anchors for the robot.
 
 #### October 4:
-	We obtained both the radio and remote control set, connected them, and ensured they were functioning.
+We obtained both the radio and remote control set, connected them, and ensured they were functioning.
 
 #### October 9:
-  During the class, we collaborated with study-away students from the Tel Aviv campus. To familiarize ourselves with robot construction and cardboard manipulation, we constructed a prototype performance robot from cardboard. Cardboard proved an optimal material for prototypes due to its lightweight nature and widespread availability. Utilizing cutting tools and a glue gun, we assembled a robot with a mouse-like appearance!
+During the class, we collaborated with study-away students from the Tel Aviv campus. To familiarize ourselves with robot construction and cardboard manipulation, we constructed a prototype performance robot from cardboard. Cardboard proved an optimal material for prototypes due to its lightweight nature and widespread availability. Utilizing cutting tools and a glue gun, we assembled a robot with a mouse-like appearance!
 
 #### October 12:
-	Played around with the Adafruit NeoPixel NeoMatrices 8x8 to get the hang of it since we knew we wanted to use it for our final robot’s eyes. 
+Played around with the Adafruit NeoPixel NeoMatrices 8x8 to get the hang of it since we knew we wanted to use it for our final robot’s eyes. 
 
 ##### Challenges:
 Understanding how the NeoPixel matrices work and how to create shapes, like eyes, on them to convey emotions within their limited, structured format.
 
 #### October 16:
-  Shaikha and I successfully displayed various shapes in different colors on the NeoPixel matrix. We were also able to trigger audio with each shape change.
+Shaikha and I successfully displayed various shapes in different colors on the NeoPixel matrix. We were also able to trigger audio with each shape change.
 
 #### November 6:
-	Acquired the wood to initiate the construction of our robot.
- Worked on implementing the NeoPixel eye concept and successfully made them operational.
+Acquired the wood to initiate the construction of our robot. Worked on implementing the NeoPixel eye concept and successfully made them operational.
 
 ##### Challenge:
 As we opted for a robot resembling a scarecrow, we faced a dilemma in determining the level of accuracy we aimed for in representing a scarecrow. Our goal was to design a robot that achieved both accuracy and stability, while also incorporating enough movement to captivate the audience.
 
 #### November 7 & 8:
-	Deciding to accurately represent a scarecrow with our robot, we recognized that it would inherently lack movement. To offset this limitation, we chose to enhance Emma-Lou by adding a crow to her shoulder. The initial crow-building phase involved testing the mechanics of the servo motor in the neck and the one in the beak using cardboard pieces. Once we successfully integrated the servo motors, we proceeded to design and construct the crow body using scrunched-up paper bags, covered in aluminum foil and black air clay.
+Deciding to accurately represent a scarecrow with our robot, we recognized that it would inherently lack movement. To offset this limitation, we chose to enhance Emma-Lou by adding a crow to her shoulder. The initial crow-building phase involved testing the mechanics of the servo motor in the neck and the one in the beak using cardboard pieces. Once we successfully integrated the servo motors, we proceeded to design and construct the crow body using scrunched-up paper bags, covered in aluminum foil and black air clay.
 
 #### November 9:	
 We attached the scarecrow arm to the body and then drilled and secured the scarecrow to the base we constructed on September 25. Following that, we began constructing the crow's head and beak mechanism to ensure it both functioned properly and maintained the appearance of a crow.
